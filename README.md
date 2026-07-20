@@ -72,6 +72,9 @@ cd KaeEngine
 ./gradlew assembleDebug
 ```
 
+A pre-built debug APK is included in the repository — [download directly](https://github.com/prathambandre/KaeEngine/raw/main/sample-game/build/outputs/apk/debug/sample-game-debug.apk)
+(3.08 MB, located at `sample-game/build/outputs/apk/debug/sample-game-debug.apk`)
+
 Install on device:
 ```bash
 adb install sample-game/build/outputs/apk/debug/sample-game-debug.apk
