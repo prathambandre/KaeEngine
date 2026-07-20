@@ -8,6 +8,7 @@ captures/
 .externalNativeBuild
 .cxx
 *.apk
+!sample-game/build/outputs/apk/debug/sample-game-debug.apk
 *.ap_
 *.dex
 *.class
